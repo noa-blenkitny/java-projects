@@ -1,0 +1,5 @@
+Howard X=175 Y=50
+Nacho X=289 Y=108
+Kim X=406 Y=106
+Saul X=501 Y=104
+Gus X=588 Y=107
